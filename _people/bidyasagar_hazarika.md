@@ -6,4 +6,4 @@ avatar: bidyasagar_hazarika.jpg
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-- _Bachelors in Electrical Engineering, Assam Engineering College_<br>
+- _Bachelors in Electronics and Communication Engineering, Assam Engineering College_<br>
